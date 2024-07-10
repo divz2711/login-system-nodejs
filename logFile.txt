@@ -1,0 +1,18 @@
+
+New user Authenticated!
+Username: divya
+Password: 12345
+URL: /auth/login
+Date: 10/7/2024, 8:11:54 pm
+Method Type: POST
+Status: Authentication Successful
+
+
+New user Authenticated!
+Username: divya
+Password: abcd
+URL: /auth/login
+Date: 10/7/2024, 8:14:57 pm
+Method Type: POST
+Status: Authentication Failed
+
